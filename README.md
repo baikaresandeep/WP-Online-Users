@@ -1,5 +1,3 @@
-<snippet>
-<content><![CDATA[
 
 # WP-Online-Users
 
@@ -35,7 +33,3 @@ TODO: Write credits
 
 ## License
 TODO: Write license
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
