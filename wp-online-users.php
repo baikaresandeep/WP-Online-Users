@@ -4,9 +4,9 @@
   Description: This plugin will show you the number of online users as well as the list with names.
   Version: 1.0.0
   Author: Baikare Sandeep
-  Author URI:   
+  Author URI: https://about.me/sandeep.baikare
   Text Domain: wp-online-users
-  Domain Path:       /languages  
+  Domain Path: /languages  
   
  */
 
